@@ -1,0 +1,7 @@
+transformers
+torch
+moviepy
+pysrt
+soundfile
+bark
+playsound
