@@ -59,5 +59,11 @@ Głos narratora
 (opcjonalnie) napisy
 
 ## 📄 Licencja
-Projekt edukacyjny / demonstracyjny. Zawiera modele open source (np. Hugging Face Transformers, Bark).
+
+## Licencje używanych modeli i bibliotek
+
+- Model `distilgpt2` – licencja MIT – https://huggingface.co/distilgpt2
+- Model `Bark` – licencja MIT – https://github.com/suno-ai/bark
+- Biblioteki MoviePy, pydub – licencja MIT
+- pysrt – licencja BSD (zgodna z MIT)
 
